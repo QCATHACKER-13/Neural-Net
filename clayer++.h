@@ -10,7 +10,8 @@ Future projects:
 - Hardware integration: After successfully developing the artificial 
   neuron network, the project will transition into hardware implementation.
 
-Developer: Christopher Emmanuelle J. Visperas, Applied Physics Researcher*/
+Developer: QCAT FERMI
+*/
 
 
 #ifndef CLAYER_H
