@@ -10,7 +10,7 @@ Future projects:
 - Hardware integration: After successfully developing the artificial 
   neural network, the project will transition into hardware implementation.
 
-Developer: Christopher Emmanuelle J. Visperas, Applied Physics Researcher
+Developer: QCAT FERMI
 
 Note in this neuron testing in this following 
     - beta or momentum factor is set to 0.9 and 0.9999 as default, and must be the constant parameter
